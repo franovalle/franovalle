@@ -12,4 +12,4 @@ Currently learning: JavaScript, React, Node.js, Express, MongoDB
 
 🌍 Fun Fact: I visited 4 countries in just 10 days—across three continents!
 
-Let’s chat! Connect with me on LinkedIn.
+### [Check out my portfolio](https://codehelpher.netlify.app/)
