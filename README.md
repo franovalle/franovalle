@@ -6,9 +6,9 @@
 
 🛠️ Technologies I work with:
 
-Frontend: HTML, CSS
+Frontend: HTML, CSS, JavaScript,
 
-Currently learning: JavaScript, React, Node.js, Express, MongoDB
+Currently learning: Node.js, React, Express, MongoDB
 
 🌍 Fun Fact: I visited 4 countries in just 10 days—across three continents!
 
