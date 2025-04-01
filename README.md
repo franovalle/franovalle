@@ -6,7 +6,7 @@
 
 🛠️ Technologies I work with:
 
-Frontend: HTML, CSS, JavaScript,
+Frontend: HTML, CSS, JavaScript
 
 Currently learning: Node.js, React, Express, MongoDB
 
