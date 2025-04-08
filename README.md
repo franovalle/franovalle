@@ -1,6 +1,6 @@
 👋🏾 Hi, I'm France! (Like the country)
 
-👩🏾‍💻 I'm a Full-Stack Software Engineer transitioning from over 10 years of experience in healthcare. 
+👩🏾‍💻 I'm a Software Engineer transitioning from over 10 years of experience in healthcare. 
 
 👩🏾‍⚕️ Currently, I’m building my expertise in web and mobile development, and I’m passionate about leveraging both my healthcare background and tech skills to create impactful, user-centered solutions.
 
