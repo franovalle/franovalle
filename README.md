@@ -8,7 +8,7 @@
 
 Frontend: HTML, CSS, JavaScript
 
-Currently learning: Node.js, React, Express, MongoDB
+Backend: Node.js, Express, MongoDB
 
 🌍 Fun Fact: I visited 4 countries in just 10 days—across three continents!
 
