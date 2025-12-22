@@ -13,7 +13,7 @@ I'm a **Software Engineer** and a passionate advocate for building inclusive, us
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,vscode,tailwind&theme=light" alt="Tech Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,vscode,loveable,tailwind&theme=light" alt="Tech Skills" />
   </a>
 </p>
 
