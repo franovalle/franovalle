@@ -5,7 +5,7 @@
 
 ### 👩🏾‍💻 **About Me** 
 
-I'm a **Software Engineer** and a passionate advocate for building inclusive, user-centered technology.
+I'm a **ReBuilder**, a passionate advocate for building inclusive, user-centered technology.
 
 ---
 
