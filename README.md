@@ -18,7 +18,7 @@ I'm a **Software Engineer** and a passionate advocate for building inclusive, us
 </p>
 
 ---
-
+<!--
 ### 🚧 **Apps I'm Working On**
 - 📝 **[Pots and Pans](#)** – Empowers restaurants to donate meals to frontline workers at hospitals, fire stations, and EMS teams, giving the public a meaningful way to show their appreciation.
 - 💊 **[Know Your Meds](#)** – An application that enables users to discover generic drug alternatives, supporting healthcare affordability and potentially reducing medication costs by up to 80%.
