@@ -13,7 +13,7 @@ I'm a **ReBuilder**, a passionate advocate for building inclusive, user-centered
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,vscode,tailwind&theme=light&perline=3" alt="Tech Skills" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,aws,bootstrap,github,vscode,tailwind,notion,html,css,&theme=light&perline=3" alt="Tech Skills" />
   </a>
 </p>
 
